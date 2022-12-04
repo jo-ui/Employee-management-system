@@ -43,3 +43,7 @@ npm start
 
 <img src=screenshots/landing_page.jpg/>
 
+<img src=screenshots/add_employee_form.jpg/>
+
+<img src=screenshots/edit_employee_page.jpg/>
+
