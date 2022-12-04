@@ -41,9 +41,12 @@ npm start
 
 ## Screenshots
 
+Landing page
 <img src=screenshots/landing_page.jpg/>
 
+Add employee form
 <img src=screenshots/add_employee_form.jpg/>
 
+Edit employee page
 <img src=screenshots/edit_employee_page.jpg/>
 
